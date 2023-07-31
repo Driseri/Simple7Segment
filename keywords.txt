@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Simple7Segment
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Simple7Segment	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+displayNumber	KEYWORD2
+displayLetter	KEYWORD2
+clear	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
